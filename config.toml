@@ -1,4 +1,4 @@
-baseURL = 'http://www.barr.mba/'
+baseURL = 'http://charlesbarr.github.io/'
 languageCode = 'en-us'
 title = 'My Site'
 theme = "strange-case"
