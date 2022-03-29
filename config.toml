@@ -1,4 +1,5 @@
-baseURL = 'http://charlesbarr.github.io/'
+# baseURL = 'http://charlesbarr.github.io/'
+baseURL = 'http://www.barr.mba'
 languageCode = 'en-us'
 title = 'My Site'
 theme = "strange-case"
